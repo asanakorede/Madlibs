@@ -59,6 +59,10 @@ label {
     color: white;
 }
 
+button {
+    margin-top: 40px;
+}
+
 #noun:hover {
     background-color: white;
     color: black;
@@ -74,7 +78,18 @@ label {
     color: white;
 }
 
-button:hover {
+#button:hover {
     background-color: white;
     color: black;
+}
+
+p {
+    box-sizing: border-box;
+    border: 2px solid blue;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+#story {
+    display: none;
 }
