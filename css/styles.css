@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+label {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#animal {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#animal:hover {
+    background-color: white;
+    color: black;
+}
+
+#noun {
+    background-color: cyan;
+    color: white;
+}
+
+#noun:hover {
+    background-color: white;
+    color: black;
+}
+
+#exclamation {
+    background-color: darkcyan;
+    color: white;
+}
+
+#exclamation:hover {
+    background-color: white;
+    color: black;
+}
+
+#person1:hover {
+    background-color: white;
+    color: black;
+}
+
+#person1 {
+    background-color: crimson;
+    color: white;
+}
+
+#person2 {
+    background-color: dimgrey;
+    color: white;
+}
+
+#person2:hover {
+    background-color: white;
+    color: black;
+}
+
+#noun {
+    background-color: coral;
+    color: white;
+}
+
+#noun:hover {
+    background-color: white;
+    color: black;
+}
+
+#verb:hover {
+    background-color: white;
+    color: black;
+}
+
+#verb {
+    background-color: indigo;
+    color: white;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
